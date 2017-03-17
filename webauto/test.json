@@ -1,0 +1,3 @@
+{"test_action":"save_screenshot", "test_adr":"d:/test.png"};
+{"test_action":"send_keys","test_type":"id","test_element":"kw","test_content":"ур╡Г"};
+{"test_action":"click","test_type":"id","test_element":"su"}
